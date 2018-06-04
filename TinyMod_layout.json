@@ -1,0 +1,261 @@
+{
+    "name": "TinyMod - English",
+    "background_color": "#F0F0F0",
+    "margin": 5.0,
+    "key_width": 30.0,
+    "key_height": 30.0,
+    "keys": [
+        {
+            "name": "#",
+            "label": "#",
+            "x": 5.0,
+            "y": 3.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#F2CFCC",
+            "color_pressed": "#F25F5C"
+        },
+        {
+            "name": "S-",
+            "label": "S",
+            "x": 1.0,
+            "y": 1.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "T-",
+            "label": "T",
+            "x": 2.0,
+            "y": 1.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "P-",
+            "label": "P",
+            "x": 3.0,
+            "y": 1.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "H-",
+            "label": "H",
+            "x": 4.0,
+            "y": 1.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "*",
+            "label": "*",
+            "x": 5.0,
+            "y": 1.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#F2CFCC",
+            "color_pressed": "#F25F5C"
+        },
+        {
+            "name": "-F",
+            "label": "F",
+            "x": 6.0,
+            "y": 1.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "-P",
+            "label": "P",
+            "x": 7.0,
+            "y": 1.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "-L",
+            "label": "L",
+            "x": 8.0,
+            "y": 1.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "-T",
+            "label": "T",
+            "x": 9.0,
+            "y": 1.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "-D",
+            "label": "D",
+            "x": 10.0,
+            "y": 1.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+
+        {
+            "name": "S-",
+            "label": "S",
+            "x": 1.0,
+            "y": 2.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "K-",
+            "label": "K",
+            "x": 2.0,
+            "y": 2.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "W-",
+            "label": "W",
+            "x": 3.0,
+            "y": 2.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "R-",
+            "label": "R",
+            "x": 4.0,
+            "y": 2.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "*",
+            "label": "*",
+            "x": 5.0,
+            "y": 2.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#F2CFCC",
+            "color_pressed": "#F25F5C"
+        },
+        {
+            "name": "-R",
+            "label": "R",
+            "x": 6.0,
+            "y": 2.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "-B",
+            "label": "B",
+            "x": 7.0,
+            "y": 2.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "-G",
+            "label": "G",
+            "x": 8.0,
+            "y": 2.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "-S",
+            "label": "S",
+            "x": 9.0,
+            "y": 2.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "-Z",
+            "label": "Z",
+            "x": 10.0,
+            "y": 2.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+
+        {
+            "name": "A-",
+            "label": "A",
+            "x": 3.0,
+            "y": 3.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "O-",
+            "label": "O",
+            "x": 4.0,
+            "y": 3.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "-E",
+            "label": "E",
+            "x": 6.0,
+            "y": 3.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        },
+        {
+            "name": "-U",
+            "label": "U",
+            "x": 7.0,
+            "y": 3.0,
+            "width": 1.0,
+            "height": 1.0,
+            "color": "#CCCCCC",
+            "color_pressed": "#50514F"
+        }
+    ] 
+}
