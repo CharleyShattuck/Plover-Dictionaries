@@ -1,0 +1,11 @@
+{
+"STPH-R": "{#left}{^}",
+"STPH-G": "{#right}{^}",
+"STPH-P": "{#up}{^}",
+"STPH-B": "{#down}{^}",
+"STPH-RB": "{#control(left)}{^}",
+"STPH-BG": "{#control(right)}{^}",
+"STPH-FBL": "{#Page_Down}{^}",
+"STPH-RPG": "{#Page_Up}{^}",
+"STPH-FPL": "{#Home}{^}",
+"STPH-RBG": "{#End}{^}"}
